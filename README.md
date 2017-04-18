@@ -13,3 +13,8 @@ Arows = movement.
 Space = shoot
 R = reload
 P = pause
+
+
+
+
+THE PELI FOLDER IS NOT IN USE, sorry for not deleting it
