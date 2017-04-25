@@ -18,3 +18,7 @@ P = pause
 
 
 THE PELI FOLDER IS NOT IN USE, sorry for not deleting it
+The project folder just exploded.... going to sleep,
+either delete extra by hand, or download from 
+https://github.com/K8491/oo_2017/tree/master/Jotain/test
+where snake demo, wpf trains and wpfthread demo are extra
